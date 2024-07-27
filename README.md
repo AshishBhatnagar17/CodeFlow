@@ -13,21 +13,21 @@ Node.js installed on your machine
 Getting Started
 Follow the steps below to set up and run the project.
 
-1. Clone the Repository
-2. Navigate to the Project Directory
+1. Clone the Repository.
+2. Navigate to the Project Directory.
   Change your directory to the project directory:
-3. Install Node Modules
+3. Install Node Modules.
    Install the necessary node modules by running:
   npm install
-4. Install Express Server
+4. Install Express Server.
   Install the Express server package:
   npm install express
-5. Start the Server
+5. Start the Server.
    Start the server using:
    node server.js
-6. Start the React App
+6. Start the React App.
   Start the React application:
   npm run start:front
-7. Access the Application
+7. Access the Application.
    Open your web browser and navigate to:
    http://localhost:3000
