@@ -27,18 +27,22 @@ Follow the steps below to set up and run the project.
    Install the necessary node modules by running:
    
   npm install
+  
 5. Install Express Server.
   Install the Express server package:
   
   npm install express
+  
 6. Start the Server.
    Start the server using:
    
    node server.js
-7. Start the React App.
+   
+8. Start the React App.
   Start the React application:
   
   npm run start:front
+  
 8. Access the Application.
    Open your web browser and navigate to:
    
